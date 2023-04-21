@@ -19,7 +19,7 @@ Here at Eatary it is our mission to bring thousands of recipes to you at the tou
 ## Installation
 Clone the repo here, run "npm install if no packages are installed",run "npm run build" and finally run "npm run develop"
 
-https://github.com/jarrettbutler/Eatary
+https://github.com/felixbor
 
 or watch the video here:
 
@@ -38,8 +38,8 @@ Sign up an account to use Eatary. Once on the dashboard search for your desired 
 Rufat Eskendarov
 https://github.com/RufatEskendarov
 
-Feliks Borshchevskyi
-https://github.com/felixbor
+Jarret Butler
+https://github.com/jarrettbutler/Eatary
 
 Zaira Barakaeva
 https://github.com/ZairaBarry
@@ -60,11 +60,11 @@ Add recipes
 Run the installation instructions and watch the magic happen
 
 ## Github
-https://github.com/jarrettbutler/Eatary
+https://github.com/felixbor
 
 ## Contact
-Jarrett Butler
+Feliks Borshchevskyi
 
-jbutler98@hotmail.com
+felixbor@gmai.com
 
-https://github.com/jarrettbutler
+https://github.com/felixbor
